@@ -1,7 +1,7 @@
 # Media Project - INF224
 ## Overview
 
-Yalin HE  INF224
+INF224
 
 Pour ce projet, j'ai fini de créer un projet client/serveur, où le client est une télécommande du serveur, qui est un gestionnaire de médias contenant des images, des vidéos et d'autres fichiers. La télécommande peut demander au serveur des informations sur le contenu, et peut jouer un contenu sur le serveur. Le serveur est codé en C++ et le client est une interface graphique Java Swing. Ils peuvent communiquer à l'aide de sockets.
 
